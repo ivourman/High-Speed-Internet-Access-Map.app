@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appTitle</key>
+	<string>YouTube</string>
+	<key>aboutTitle</key>
+	<string>YouTube</string>
+	<key>aboutText</key>
+	<string>© 2019 BZG Inc. All Rights Reserved.
+
+Distribution of Unite apps is against copyright law without a distribution license. To purchase a distribution license, visit http://www.bzgapps.com/unite
+
+Unite is possible via the following open source projects and resources:
+
+Icons:
+Dark Glass by Alessandro Rei https://www.iconfinder.com/icons/6604/favourite_heart_love_package_icon
+
+Soft Icons by Kyo Tux https://www.iconfinder.com/icons/32720/favorite_star_ã©toile_icon
+
+FRESH Add-on by IconEden https://www.iconfinder.com/icons/61522/programs_software_windows_icon
+
+Crystal Clear by Everaldo Coelho https://www.iconfinder.com/icons/3283/preferences_settings_tools_icon
+
+Icons on data: Created by Macrovector - Freepik.com
+
+
+
+Useful web icons collection Free Vector By freepik
+
+
+
+Frameworks:MMTabBarView
+https://github.com/MiMo42/MMTabBarView
+
+MASShortcut
+https://github.com/shpakovski/MASShortcut
+
+Fragaria
+https://github.com/mugginsoft/Fragaria
+
+Built with WebKit 2</string>
+	<key>browserDetailText</key>
+	<string>Made with Macify</string>
+	<key>copyrightText</key>
+	<string>Copyright © 2019 BZG Inc. and Binyamin Goldman.</string>
+</dict>
+</plist>

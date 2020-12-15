@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isEnterpriseApp</key>
+	<false/>
+	<key>appName</key>
+	<string>YouTube</string>
+	<key>URL</key>
+	<string>youtube.com</string>
+	<key>hideProgressBar</key>
+	<false/>
+	<key>windowLevel</key>
+	<integer>0</integer>
+	<key>windowShadow</key>
+	<true/>
+	<key>windowOpacity</key>
+	<integer>1</integer>
+	<key>defaultFont</key>
+	<string>ArialMT</string>
+	<key>defaultFontSize</key>
+	<integer>10</integer>
+	<key>colorHex</key>
+	<string>ffffff</string>
+	<key>hideTitle</key>
+	<true/>
+	<key>hideTitleIcon</key>
+	<true/>
+	<key>whiteListAllowAll</key>
+	<true/>
+	<key>whiteListAllowPatterns</key>
+	<false/>
+	<key>whiteListPatterns</key>
+	<array>
+		<string>youtube.com</string>
+		<string></string>
+	</array>
+	<key>userNotifications</key>
+	<false/>
+	<key>dockBadge</key>
+	<false/>
+	<key>hideEnterpriseItems</key>
+	<true/>
+</dict>
+</plist>
